@@ -1,0 +1,46 @@
+
+body, h1 {
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+    
+}
+
+
+header {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 26px;
+    margin: 0;
+    padding:0;
+    text-align: center;
+}
+
+
+nav {
+    background-color: gray;
+    text-align: center;
+    padding: 10px;
+}
+
+nav p {
+    display: inline-block; 
+    margin: 0 10px; 
+    padding: 0 10px
+}
+
+
+
+.low-wastage-mode {
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 20px 0;
+}
